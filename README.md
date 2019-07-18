@@ -8,3 +8,4 @@ git log //visualizar alterações etc
 git diff //visualizar arquivo antes de commit
 git checkout file //retorna estado do arquivo para antes da edição
 git push -u origin master //enviar para nuvem
+git push -u origin master //criar branch
